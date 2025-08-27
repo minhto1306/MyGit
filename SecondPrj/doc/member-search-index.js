@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"iuh.fit.se","c":"Rectangle","l":"Rectangle()","u":"%3Cinit%3E()"},{"p":"iuh.fit.se","c":"TestRectangle","l":"TestRectangle()","u":"%3Cinit%3E()"}];updateSearchResults();
